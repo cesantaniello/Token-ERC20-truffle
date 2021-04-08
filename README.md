@@ -28,7 +28,7 @@ Crear contrato:
 
 
 
-Copiar MiToken.sol de este repositorio
+Copiar [MiToken.sol](https://github.com/cesantaniello/Token-ERC20-truffle/blob/master/contracts/MiToken.sol) de este [repositorio](https://github.com/cesantaniello/Token-ERC20-truffle)
 
 
 
